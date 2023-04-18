@@ -1,4 +1,2 @@
 #!/bin/bash
 echo "hello $USER"
-^C
-root@331cb345cb10:/alx-system_engineering-devops/0x03-shell_variables_expansions#
